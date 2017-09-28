@@ -1,9 +1,11 @@
-{logo}
-The Solar System
 
-[Stars]
-[Terrestrial planets]
-[Gas giants]
+<header>
+<img src="images/logo.svg alt="">
+<h1>The Solar System</h1>
+
+<h2>Stars<h2>
+<h2>Terrestrial planets</h2>
+<Gas giants]
 [Dwarf planets]
 [Asteroids]
 [Comets]
